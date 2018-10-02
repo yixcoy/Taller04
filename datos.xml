@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATOS>
+
+<caracteristicas>
+
+<nombre> Gabriela </nombre>
+<apellido> Gonon </apellido>
+<edad> 21 </edad>
+
+
+</caracteristicas>
+
+
+<caracteristicas><nombre/><precio/><color/><tamano/></caracteristicas><caracteristicas><nombre>Pablo</nombre><apellido>Juarez</apellido><edad>23</edad></caracteristicas><caracteristicas><nombre>Gabriela</nombre><apellido>Gonon</apellido><edad>21</edad></caracteristicas><caracteristicas><nombre>Daniela</nombre><apellido>Pineda</apellido><edad>19</edad></caracteristicas><caracteristicas><nombre>Martha</nombre><apellido>Monterroso</apellido><edad>17</edad></caracteristicas><caracteristicas><nombre>Pedro</nombre><apellido>Molina</apellido><edad>14</edad></caracteristicas><caracteristicas><nombre>Mario</nombre><apellido>Castañeda</apellido><edad>90</edad></caracteristicas></DATOS>
